@@ -1,0 +1,1 @@
+This function will display what the time is according to the Mountain Standard Time at all moments. It is a continuos clock that pulls up its own tab to show the time.
