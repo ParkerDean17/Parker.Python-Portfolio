@@ -1,0 +1,81 @@
+In this game we will test your Python knowledge, let the games begin!
+Data Types
+What is a binary variable, having two possible values called “true” and “false"?
+Boolean
+Function
+Decimal
+Variable
+1. Boolean
+That is the definition of the word Boolean.
+Built-in Functions
+What is a non-whole number called?
+Float
+Decimal
+Integer
+Yeet
+1. Float
+Float is a number that uses a decimal
+Data Types
+What is a block of code that performs a task and does it well and can be called up with a sing phrase?
+Variable
+Input
+Sting
+Function
+4. Function
+Functions are groups of code that make up a sequence of events.
+Data Types
+What is an order of operations called?
+Print
+Sequence
+Operator
+String
+2. Sequence
+A sequence is an enumerated collection of objects in which repetitions are allowed. 
+Data Types
+What is a sequence of characters called?
+String
+Sequence
+Print
+Operator
+1. String
+A string is usually a bit of text you want to display to someone, or "export" out of the program you are writing.
+Data Types
+What is a method of displaying a line of code?
+Boolean
+Input
+Print
+String
+3. Print
+Putting print before a line of code reads out the line
+Primitive Types
+What are reserved memory locations to store values?
+Inputs
+Strings
+Variables
+Operators
+3. Variables
+Variables are lines of code used to store information for future lines.
+Primative Types
+Assuming (name = "John Smith"), what does name[1] return?
+S
+o
+J
+h
+2. o
+The name starts at O, so 1 would be the second value.
+Data Types
+How would you make the string (day = print(6)) turn into an integer?
+day += 1
+print(day)
+print(6)
+int(day(print(6))
+4. int(day(print(6))
+By putting int before a string it turns the code into an integer
+Python Memes
+This bitch empty!
+YEET
+Its obviously the first one
+why are you still reading
+just enter the first one
+1. YEET
+Yeet is always the answer
