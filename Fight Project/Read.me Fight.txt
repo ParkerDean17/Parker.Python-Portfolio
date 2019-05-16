@@ -1,2 +1,0 @@
-This sequences put you in a room with a monster.  Throughout this sequence you will fight the monster and each of you will do 
-damage to one another. The sequence ends with one of you dying and then gives a print statement depending on who dies.

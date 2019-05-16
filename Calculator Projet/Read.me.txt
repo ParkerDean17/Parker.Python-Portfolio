@@ -1,2 +1,0 @@
-This is a portable calculator program. You can enter in any 2 digits that you would like and then choose whether you would like  
-to add, subtract, divide, or multiply them together. Then it give you your answer

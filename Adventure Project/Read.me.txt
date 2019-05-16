@@ -1,2 +1,0 @@
-This is a text based style adventure, where your character goes around our world based on the decisons that you make. If any 
-decisions you would like to make are not in our data base it will return your function and you will have to try something else.
